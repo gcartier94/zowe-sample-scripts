@@ -1,0 +1,17 @@
+{
+    "templates": "./templates/",
+    "library": "",
+    "zos_src": {
+        "local": {
+            "folder": "zos_src"
+        },
+        "dsn": {
+            "hlq": "",
+            "project": "",
+            "type": ""
+        }
+    },
+    "rexx": {
+        "message": "HELLO GUYS"
+    }
+}
